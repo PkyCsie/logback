@@ -41,6 +41,8 @@ import java.lang.management.ManagementFactory
 
 public class ConfigurationDelegate extends ContextAwareBase {
 
+  ///this file may be needed to be modified
+
   List<Appender> appenderList = [];
 
   Object getDeclaredOrigin() {
